@@ -1,0 +1,287 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\81\modelsim_ae\examples
+Eattack_gen
+Z0 w1680015490
+Z1 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 dC:\Users\HariKrishna\OneDrive\Desktop\Modules
+Z5 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/Attack_gen.vhd
+Z6 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/Attack_gen.vhd
+l0
+L6
+V3gnd?84QZ5n93LXM<HFPi2
+Z7 OV;C;6.3g_p1;37
+32
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+Abehave
+R1
+R2
+R3
+DEx4 work 10 attack_gen 0 22 3gnd?84QZ5n93LXM<HFPi2
+l15
+L13
+V3Z6GjWC2lBg_MWDoO`X751
+R7
+32
+Z10 Mx3 4 ieee 14 std_logic_1164
+Z11 Mx2 4 ieee 18 std_logic_unsigned
+Z12 Mx1 4 ieee 15 std_logic_arith
+R8
+R9
+Ebenchmark_ckt1
+Z13 w1680015490
+R3
+R4
+Z14 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/BENCHMARK_CKT1.VHD
+Z15 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/BENCHMARK_CKT1.VHD
+l0
+L4
+V7n[^PGSbba0]_]U<<C;k_0
+R7
+32
+R8
+R9
+Abehave
+R3
+DEx4 work 14 benchmark_ckt1 0 22 7n[^PGSbba0]_]U<<C;k_0
+l12
+L9
+VS11N02?T@mz`_37RNzBM71
+R7
+32
+Z16 Mx1 4 ieee 14 std_logic_1164
+R8
+R9
+Ebenchmark_ckt2
+R13
+R3
+R4
+Z17 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/BENCHMARK_CKT2.VHD
+Z18 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/BENCHMARK_CKT2.VHD
+l0
+L4
+Ve1KQMa_YSU]n2>6NahlWd3
+R7
+32
+R8
+R9
+Abehave
+R3
+DEx4 work 14 benchmark_ckt2 0 22 e1KQMa_YSU]n2>6NahlWd3
+l12
+L9
+Vjn@iZS_J>Z0Q9Z6H6kN:?3
+R7
+32
+R16
+R8
+R9
+Ebuff
+R13
+R1
+R2
+R3
+R4
+Z19 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/BUFF.VHD
+Z20 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/BUFF.VHD
+l0
+L7
+VfY>@ndWMU:ITHHDPl7TiC0
+R7
+32
+R8
+R9
+Abehave
+R1
+R2
+R3
+DEx4 work 4 buff 0 22 fY>@ndWMU:ITHHDPl7TiC0
+l16
+L13
+V9X:GONAkj<:O2Sg4Ig?;22
+R7
+32
+R10
+R11
+R12
+R8
+R9
+Eclock_synth
+R13
+R3
+R4
+Z21 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/Clock_Synth.vhd
+Z22 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/Clock_Synth.vhd
+l0
+L5
+VAHbLcB>jN:=n:_>G<70VF3
+R7
+32
+R8
+R9
+Abehave
+R3
+DEx4 work 11 clock_synth 0 22 AHbLcB>jN:=n:_>G<70VF3
+l14
+L11
+VYj<cWgJ^_Vg=JC^35<him1
+R7
+32
+R16
+R8
+R9
+Edelay_detector
+R13
+R1
+R2
+R3
+R4
+Z23 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/delay_detector.vhd
+Z24 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/delay_detector.vhd
+l0
+L7
+VD14mB`4d91Dd_fdQE?NXN2
+R7
+32
+R8
+R9
+Abehave
+R1
+R2
+R3
+DEx4 work 14 delay_detector 0 22 D14mB`4d91Dd_fdQE?NXN2
+l20
+L14
+VFNIaRXod:SHVEb;:eH8^z3
+R7
+32
+R10
+R11
+R12
+R8
+R9
+Elogic_attack_detector
+R13
+R1
+R2
+R3
+R4
+Z25 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/Logic_Attack_Detector.vhd
+Z26 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/Logic_Attack_Detector.vhd
+l0
+L6
+VbbI]ageUAC1MDk9:a2T=e3
+R7
+32
+R8
+R9
+Abehave
+R1
+R2
+R3
+DEx4 work 21 logic_attack_detector 0 22 bbI]ageUAC1MDk9:a2T=e3
+l50
+L13
+V`gn?N?H?YU;KjU><c<m[j2
+R7
+32
+R10
+R11
+R12
+R8
+R9
+Eref_sig_gen
+R13
+R1
+R2
+R3
+R4
+Z27 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/ref_sig_gen.vhd
+Z28 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/ref_sig_gen.vhd
+l0
+L6
+V5I[ahmUi@8zPoeJaoF<@;2
+R7
+32
+R8
+R9
+Abehave
+R1
+R2
+R3
+DEx4 work 11 ref_sig_gen 0 22 5I[ahmUi@8zPoeJaoF<@;2
+l15
+L12
+VcbSTl5RiHP3CPXGZ`:S3Q2
+R7
+32
+R10
+R11
+R12
+R8
+R9
+Esynthesizer
+Z29 w1678093637
+R1
+R2
+R3
+R4
+Z30 8C:/Users/HariKrishna/OneDrive/Desktop/Modules/synthesizer.vhd
+Z31 FC:/Users/HariKrishna/OneDrive/Desktop/Modules/synthesizer.vhd
+l0
+L7
+V1hYZ;zPRmWTo_ko?gbeNg3
+R7
+32
+R8
+R9
+Abehave
+R1
+R2
+R3
+DEx4 work 11 synthesizer 0 22 1hYZ;zPRmWTo_ko?gbeNg3
+l16
+L13
+V22VT^GM]1Vof2RlXQfaZ_1
+R7
+32
+R10
+R11
+R12
+R8
+R9
+Etestbench_lad
+R13
+R1
+R2
+R3
+R4
+Z32 8C:/Users/HariKrishna/OneDrive/Desktop/Full_code/TestBench_LAD.vhd
+Z33 FC:/Users/HariKrishna/OneDrive/Desktop/Full_code/TestBench_LAD.vhd
+l0
+L6
+Vgi<m]Q8<zlme3nIR1kKgk2
+R7
+32
+R8
+R9
+Abehavior
+R1
+R2
+R3
+Z34 DEx4 work 13 testbench_lad 0 22 gi<m]Q8<zlme3nIR1kKgk2
+l27
+L9
+Z35 Vc9i53XI8e_6HhjN[VdURC2
+R7
+32
+R10
+R11
+R12
+R8
+R9
